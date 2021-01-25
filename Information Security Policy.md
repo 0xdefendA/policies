@@ -2,7 +2,7 @@
 
 **Information Security Policies**
 
-**Updated: 2020**
+**Updated: 2021**
 
 # PURPOSE
 
